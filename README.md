@@ -5,7 +5,7 @@ text here test
 
 [![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=aaron-G18&hide=stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Aaron's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-G18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Aaron's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-G18&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aaron-G18/aaron-G18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
