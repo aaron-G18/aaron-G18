@@ -5,11 +5,11 @@
 ```
 let Aaron = {
     fullName: "Aaron Garner",
-    pronouns: ["he", "him", "his"]
+    pronouns: ["he", "him", "his"],
     languages: [HTML, CSS, JavaScript],
     tools: [React, Node, Express, MongoDB, MySQL, Jquery, 
-        Firebase, Handlebars, AJAX, Bootstrap, Sequelize, Git, NPM],
-}
+        Firebase, Handlebars, AJAX, Bootstrap, Sequelize, Git, NPM]
+};
 ```
 ### Contact me:
 
