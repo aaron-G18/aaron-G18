@@ -12,8 +12,11 @@ let Aaron = {
 }
 ```
 ### Contact me:
+
 :e-mail: [mailto](mailto:aaron.garner.1982@gmail.com "Aaron Garner's Email")
+
 :link: [**LinkedIn**](https://www.linkedin.com/in/aaron-garner-53066346/ "Aaron Garner's LinedIn")
+
 :file_folder: [**Portfolio**](https://www.linkedin.com/in/aaron-garner-53066346/ "Aaron Garner's Portfolio")
 
 :octocat: :octocat: :octocat:
