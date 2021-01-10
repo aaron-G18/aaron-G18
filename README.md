@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hello World! 👋  :wink:
+### Thank you for visitng my profile!
 
-
-text here test
+```
+let Aaron = {
+    fullName: "Aaron Garner",
+    languages: [HTML, CSS, JavaScript],
+    tools: [React, Node, Express, MongoDB, MySQL, Jquery, Firebase, Handlebars, AJAX, Bootstrap, Sequelize, Git, NPM]
+    
+}
+```
 
 [![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=aaron-G18&hide=stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
