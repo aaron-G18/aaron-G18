@@ -17,7 +17,7 @@ let Aaron = {
 <br/>
 <br/>
 ***
-:octocat:    :octocat:    :octocat:  
+<span style="font-size:larger;">:octocat:    :octocat:    :octocat:</span>  
 
 [![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=aaron-G18&hide=stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
