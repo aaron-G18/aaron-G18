@@ -16,6 +16,3 @@ let Aaron = {
 :e-mail: [Email](mailto:aaron.garner.1982@gmail.com "Aaron Garner's Email")  |  :link: [**LinkedIn**](https://www.linkedin.com/in/aaron-garner-53066346/ "Aaron Garner's LinedIn")  |  :file_folder: [**Portfolio**](https://aaron-g18.github.io/AG-Portfolio/ "Aaron Garner's Portfolio")
 <br/>
 <br/>
-***
-
-### :octocat:    :octocat:    :octocat:
