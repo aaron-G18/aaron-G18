@@ -6,9 +6,10 @@
 let Aaron = {
     fullName: "Aaron Garner",
     pronouns: ["he", "him", "his"],
-    languages: [HTML, CSS, JavaScript],
+    languages: [JavaScript, Python, HTML, CSS],
     tools: [React, Node, Express, MongoDB, MySQL, Jquery, 
-        Firebase, Handlebars, AJAX, Bootstrap, Sequelize, Git, NPM]
+        Selenium, Puppeteer, Firebase, Handlebars, AJAX, 
+        Bootstrap, Sequelize, Git, NPM]
 };
 ```
 ### Contact me:
