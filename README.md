@@ -7,9 +7,9 @@ let Aaron = {
     fullName: "Aaron Garner",
     pronouns: ["he", "him"],
     languages: [JavaScript, Python, HTML, CSS],
-    tools: [React, Node, Express, MongoDB, MySQL, Jquery, 
-        Selenium, Puppeteer, Firebase, Handlebars, AJAX, 
-        Bootstrap, Sequelize, Git, NPM]
+    tools: [React, Node, Express, NoSQL(MongoDB), SQL(MySQL, PostgreSQL), Jquery, 
+        Selenium, Puppeteer, Git, Firebase, Handlebars, AJAX, 
+        Bootstrap, Sequelize, Jira(Kanban), Sentry]
 };
 ```
 ### Contact me:
