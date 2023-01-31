@@ -1,5 +1,4 @@
 ## Hello World! 👋  :wink:
-### Thank you for visitng my profile!
 
 ### Here's a little info about me:
 ```
