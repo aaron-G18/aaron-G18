@@ -8,7 +8,7 @@ let Aaron = {
     languages: [Python, JavaScript, HTML, CSS],
     tools: [React, Node, Express, NoSQL(MongoDB), SQL(MySQL, PostgreSQL), 
         Jquery, Selenium, Puppeteer, Git, Firebase, Handlebars, AJAX, 
-        Bootstrap, Sequelize, Marshmallow, Docker, Jira(Kanban), Sentry]
+        Bootstrap, Sequelize, Marshmallow, Docker, Jira, Sentry]
 };
 ```
 ### Contact me:
